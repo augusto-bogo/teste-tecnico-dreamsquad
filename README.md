@@ -20,8 +20,8 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento.
 ### 1. Clonar o Repositório
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
-cd <NOME_DA_PASTA>
+git clone https://github.com/augusto-bogo/teste-tecnico-dreamsquad.git
+cd teste-tecnico-dreamsquad
 ````
 
 ### 2\. Configurar o Ambiente Virtual
